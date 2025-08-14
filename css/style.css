@@ -433,3 +433,10 @@ font-family: 'Lobster', cursive;
     opacity: 1;
   }
 }
+
+.hidden {
+  display: none;
+}
+.visible {
+  display: block; /* Or your flex/grid layout */
+}
